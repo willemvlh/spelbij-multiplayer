@@ -1,0 +1,13 @@
+{
+  "name": "spelbij-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^4.0.1"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  }
+}
